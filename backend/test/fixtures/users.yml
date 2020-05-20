@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  full_name: 小島 佑一
+  nick_name: samuraikun
+  profile_thumbnail_url: https://avatars1.githubusercontent.com/u/7115171?s=460&u=ce3be6c9380d12df33ddf17f80f9cd8a27577b77&v=4
+  country_id: 1
+
+two:
+  full_name: 吉岡 里帆
+  nick_name: yoshiriho
+  profile_thumbnail_url: https://pretty-girls-in-cm.up.seesaa.net/image/E59089E5B2A1E9878CE5B886EFBC9AE381A9E38293E585B5E8A19B13.jpg
+  country_id: 1
+
+three:
+  full_name: 福原 遥
+  nick_name: haru
+  profile_thumbnail_url: https://www.tv-tokyo.co.jp/yurucamp/cast/images/fukuhara.jpg
+  country_id: 1

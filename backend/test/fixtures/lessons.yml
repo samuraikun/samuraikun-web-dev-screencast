@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: 漸進的にはじめるGraphQL
+  description: Railsで作られたREST APIをGraphQLに置き換えていく
+  user_id: 1
+  video_url: https://www.youtube.com/watch?v=9F_5nRS4y3k
+  body: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+two:
+  title: Next.jsとApollo ClientによるGraphQL実装
+  description: Next.jsでのGraphQLの実装について
+  user_id: 1
+  video_url: https://www.youtube.com/watch?v=08ydvddhG1M
+  body: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
